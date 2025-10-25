@@ -1,10 +1,7 @@
-# 🚦 Assignment 3 – Minimum Spanning Tree (MST)
+# Assignment 3 – Minimum Spanning Tree (MST)
 
-**Student:** *Your Name*  
-**Course:** Data Structures and Algorithms  
-**Topic:** Comparison of Prim’s and Kruskal’s algorithms  
-**Tools:** Java (MST Implementation) + Python (Empirical Validation)
-
+**Student:** Diana Shakalova 
+**Group:** SE-2431
 ---
 
 ## 1. Input Datasets and Experiment Setup
